@@ -1,8 +1,5 @@
 ## Process Scheduling Simulator - Design Decisions
 ---
-
-    Name: Ash Ruru Peng
-    SFU ID: 301404647
     
     The purpose of this file is to document and explain some of the design decisions I made while working for this assignment.
 
